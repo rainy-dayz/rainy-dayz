@@ -1,6 +1,8 @@
 
 Hi, I'm Emily! I'm a full stack software engineer, and when I'm not coding you can find me immersed in a book or playing with my dog!
 
+I embarked on my Registered Nursing journey with a passion for healthcare and a commitment to providing compassionate patient care.Building upon my nursing background, I transitioned into software development to merge my healthcare insights with technology. I plan to bring my newly developed skills learned at App Academy and my passion for technology to the software engineering world!
+
 ## Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
