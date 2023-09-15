@@ -7,6 +7,8 @@
 
 Hi, I'm Emily! I'm a Full Stack Software Engineer, who is passionate about changing the world through technology. 
 
+- :seedling: Former traveling nurse making a transition into Software Engineering.
+
 - :zap: In my free time, you can find me immersed in a book or playing with my dog!
 
 - :mailbox: How to reach me: breininger.emily@gmail.com
