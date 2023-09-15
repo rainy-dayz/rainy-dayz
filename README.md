@@ -3,11 +3,11 @@
 </div>
 
 
-### :woman_technologist: About Me :
+## :woman_technologist: About Me :
 
 Hi, I'm Emily! I'm a Full Stack Software Engineer, who is passionate about changing the world through technology. 
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, you can find me immersed in a book or playing with my dog!
 
 - :mailbox: How to reach me: breininger.emily@gmail.com
 
