@@ -1,7 +1,15 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"width="600" height="300"/>
+</div>
 
-Hi, I'm Emily! I'm a full stack software engineer, and when I'm not coding you can find me immersed in a book or playing with my dog!
 
-You can reach me at breininger.emily@gmail.com
+### :woman_technologist: About Me :
+
+Hi, I'm Emily! I'm a Full Stack Software Engineer, who is passionate about changing the world through technology. 
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox: How to reach me: breininger.emily@gmail.com
 
 ## Languages
 
@@ -10,7 +18,7 @@ You can reach me at breininger.emily@gmail.com
 ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
-## Technologies
+## :zap: Technologies
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
